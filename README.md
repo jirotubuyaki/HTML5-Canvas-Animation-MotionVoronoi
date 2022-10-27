@@ -14,7 +14,7 @@ http://d3js.org/d3.v3.min.js
 [PathFlat DEMO](https://jirotubuyaki.github.io/createjs/pathflat/index.html)  
 
 ### ScreenShot  
-![ScreenShot](https://github.com/jirotubuyaki/PathFlat/blob/master/screen.png)   
+![ScreenShot](https://raw.githubusercontent.com/jirotubuyaki/PathFlat/main/screen.png)   
 
 ### Acknowledgments
 This activity would not have been possible without the support of my family and friends. To my family, thank you for lots of encouragement for me and inspiring me to follow my dreams. I am especially grateful to my parents, who supported me all aspects.
